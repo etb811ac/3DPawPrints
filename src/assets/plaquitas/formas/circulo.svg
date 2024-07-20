@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Vectornator (http://vectornator.io/) -->
+
+<svg
+   height="265.19"
+   stroke-miterlimit="10"
+   style="clip-rule:evenodd;fill-rule:nonzero;stroke-linecap:round;stroke-linejoin:round"
+   version="1.1"
+   viewBox="0 0 263.638 265.19"
+   width="263.638"
+   xml:space="preserve"
+   id="svg53"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:vectornator="http://vectornator.io">
+<defs
+   id="defs9" />
+
+
+<g
+   id="Círculo"
+   vectornator:layerName="Círculo"
+   transform="translate(-752.902,-1649.95)">
+<path
+   d="m 762.902,1782.55 c 0,-67.71 54.539,-122.6 121.817,-122.6 67.277,0 121.821,54.89 121.821,122.6 0,67.7 -54.544,122.59 -121.821,122.59 -67.278,0 -121.817,-54.89 -121.817,-122.59 z"
+   fill="#843030"
+   fill-opacity="0"
+   fill-rule="nonzero"
+   opacity="1"
+   stroke="#000000"
+   stroke-linecap="round"
+   stroke-linejoin="round"
+   stroke-width="20"
+   id="path19" />
+<path
+   d="m 880.487,1695.27 c 0,-3.03 1.827,-5.48 4.081,-5.48 2.254,0 4.082,2.45 4.082,5.48 0,3.02 -1.828,5.47 -4.082,5.47 -2.254,0 -4.081,-2.45 -4.081,-5.47 z"
+   fill="#843030"
+   fill-opacity="0"
+   fill-rule="nonzero"
+   opacity="1"
+   stroke="#000000"
+   stroke-linecap="round"
+   stroke-linejoin="round"
+   stroke-width="20"
+   id="path21" />
+</g>
+
+
+
+
+
+</svg>

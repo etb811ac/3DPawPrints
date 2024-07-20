@@ -1,0 +1,107 @@
+{
+    "colors": [
+        {
+            "id": 1,
+            "gif": "assets/global/colores/1.gif",
+            "static" : "assets/global/colores/1.png"
+        },
+        {
+            "id": 2,
+            "gif": "assets/global/colores/2.gif",
+            "static" : "assets/global/colores/2.png"
+        },
+        {
+            "id": 3,
+            "gif": "assets/global/colores/3.gif",
+            "static" : "assets/global/colores/3.png"
+        },
+        {
+            "id": 4,
+            "gif": "assets/global/colores/4.gif",
+            "static" : "assets/global/colores/4.png"
+        },
+        {
+            "id": 20,
+            "gif": "assets/global/colores/20.gif",
+            "static" : "assets/global/colores/20.png"
+        },
+        {
+            "id": 32,
+            "gif": "assets/global/colores/32.gif",
+            "static" : "assets/global/colores/32.png"
+        },
+        {
+            "id": 33,
+            "gif": "assets/global/colores/33.gif",
+            "static" : "assets/global/colores/33.png"
+        },
+        {
+            "id": 34,
+            "gif": "assets/global/colores/34.gif",
+            "static" : "assets/global/colores/34.png"
+        },
+        {
+            "id": 35,
+            "gif": "assets/global/colores/35.gif",
+            "static" : "assets/global/colores/35.png"
+        },
+        {
+            "id": 36,
+            "gif": "assets/global/colores/36.gif",
+            "static" : "assets/global/colores/36.png"
+        },
+        {
+            "id": 38,
+            "gif": "assets/global/colores/38.gif",
+            "static" : "assets/global/colores/38.png"
+        },
+        {
+            "id": 39,
+            "gif": "assets/global/colores/39.gif",
+            "static" : "assets/global/colores/39.png"
+        },
+        {
+            "id": 40,
+            "gif": "assets/global/colores/40.gif",
+            "static" : "assets/global/colores/40.png"
+        },
+        {
+            "id": 41,
+            "gif": "assets/global/colores/41.gif",
+            "static" : "assets/global/colores/41.png"
+        },
+        {
+            "id": 42,
+            "gif": "assets/global/colores/42.gif",
+            "static" : "assets/global/colores/42.png"
+        }
+        
+    ],
+    "carousel": [
+        {
+            "id": 1,
+            "src": "assets/figuritas/carousel/slide1.jpg"
+        },
+        {
+            "id": 2,
+            "src": "assets/figuritas/carousel/slide2.jpg"
+        },
+        {
+            "id": 3,
+            "src": "assets/figuritas/carousel/slide3.jpg"
+        },
+        {
+            "id": 4,
+            "src": "assets/figuritas/carousel/slide4.jpg"
+        },
+        {
+            "id": 5,
+            "src": "assets/figuritas/carousel/slide5.jpg"
+        },
+        {
+            "id": 6,
+            "src": "assets/figuritas/carousel/slide6.jpg"
+        }
+    ]
+    
+}

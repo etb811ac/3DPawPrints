@@ -1,0 +1,11 @@
+.slide{
+    overflow: hidden;
+    .slide-container{
+        display: flex;
+        justify-content: center;
+        align-content: center;
+        img{
+            width: 100%;
+        }
+    }
+}

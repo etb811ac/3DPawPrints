@@ -1,0 +1,45 @@
+/* cyrillic-ext */
+@font-face {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    src: url('Roboto/Roboto-Regular.ttf') format('truetype');
+  }
+
+  @font-face {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    src: url('Roboto/Roboto-Medium.ttf') format('truetype');
+  }
+
+  @font-face {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    src: url('Roboto/Roboto-Bold.ttf') format('truetype');
+  }
+
+  @font-face {
+    font-family: 'Noteworthy';
+    font-style: normal;
+    font-weight: 700;
+    src: url('noteworthy/Noteworthy-Bold.ttf') format('truetype');
+  }
+
+  html{
+    overflow-x: hidden;
+  }
+
+body{
+    font-family: 'Roboto', 'Open Sans', sans-serif;
+    margin: 0;
+    color: #333;
+    overflow-x: hidden;
+    .page-container{
+        margin: 90px auto 0;
+        max-width: 1440px;
+        min-height: 78vh;
+        width: 100%;
+    }
+}

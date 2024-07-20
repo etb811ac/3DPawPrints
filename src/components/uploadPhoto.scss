@@ -1,0 +1,36 @@
+.image-preview{
+    display: flex;
+    margin: 20px;
+    gap: 20px;
+
+    .image{
+        position: relative;
+        img{
+            max-width: 80px;
+        }
+        .delete{
+            position: absolute;
+            top:-5px;
+            right: -5px;
+            background-color: rgb(219, 44, 44);
+            color: #fff;
+            font-size: 12px;
+            width: 20px;
+            height: 20px;
+            border-radius: 50%;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            box-shadow: 0 0 13px 2px #484848;
+            transition: .5s all;
+            cursor: pointer;
+        }
+
+        &:hover{
+            .delete{
+                transform: scale(1.2);
+            }
+        }
+    }
+    
+}

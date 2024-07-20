@@ -1,0 +1,199 @@
+{
+    "shapes": [
+        {
+            "id" : "Rectangulo",
+            "src" : "assets/plaquitas/formas/rectangulo.svg"
+        },
+        {
+            "id" : "Hueso",
+            "src" : "assets/plaquitas/formas/hueso.svg"
+        },
+        {
+            "id" : "Rombo",
+            "src" : "assets/plaquitas/formas/rombo.svg"
+        },
+        {
+            "id" : "Pez",
+            "src" : "assets/plaquitas/formas/pez.svg"
+        },
+        {
+            "id" : "Circulo",
+            "src" : "assets/plaquitas/formas/circulo.svg"
+        },
+        {
+            "id" : "Estrella",
+            "src" : "assets/plaquitas/formas/estrella.svg"
+        },
+        {
+            "id" : "Corazon",
+            "src" : "assets/plaquitas/formas/corazon.svg"
+        }
+    ],
+    "colors": [
+        {
+            "id": 1,
+            "hex": "#000"
+        },
+        {
+            "id": 2,
+            "hex": "#fff"
+        },
+        {
+            "id": 3,
+            "hex": "#A4008B"
+        },
+        {
+            "id": 4,
+            "hex": "#1275EB"
+        },
+        {
+            "id": 5,
+            "hex": "#50C8CD"
+        },
+        {
+            "id": 6,
+            "hex": "#93DD11"
+        },
+        {
+            "id": 7,
+            "hex": "#DFF844"
+        },
+        {
+            "id": 8,
+            "hex": "#A5F43B"
+        },
+        {
+            "id": 9,
+            "hex": "#EAE03C"
+        },
+        {
+            "id": 10,
+            "hex": "#F3D170"
+        },
+        {
+            "id": 11,
+            "hex": "#FFBD70"
+        },
+        {
+            "id": 12,
+            "hex": "#F66161"
+        },
+        {
+            "id": 13,
+            "hex": "#FF8753"
+        },
+        {
+            "id": 14,
+            "hex": "#FA9898"
+        },
+        {
+            "id": 15,
+            "hex": "#FF6F8D"
+        },
+        {
+            "id": 16,
+            "hex": "#EF77A3"
+        },
+        {
+            "id": 17,
+            "hex": "#F15F94"
+        },
+        {
+            "id": 18,
+            "hex": "#FA99BD"
+        },
+        {
+            "id": 19,
+            "hex": "#FFC6DB"
+        },
+        {
+            "id": 20,
+            "hex": "#C1C3C2"
+        },
+        {
+            "id": 21,
+            "hex": "#2CB9ED"
+        },
+        {
+            "id": 22,
+            "hex": "#C0B8E8"
+        },
+        {
+            "id": 23,
+            "hex": "#9833F1"
+        },
+        {
+            "id": 24,
+            "hex": "#EFE6E6"
+        },
+        {
+            "id": 25,
+            "hex": "#D19334"
+        },
+        {
+            "id": 26,
+            "hex": "#9D0202"
+        },
+        {
+            "id": 27,
+            "hex": "#FF3131",
+            "opacity" : "0.36"
+        },
+        {
+            "id": 28,
+            "hex": "#1275EB",
+            "opacity" : "0.36"
+        },
+        {
+            "id": 29,
+            "hex": "#7ED957",
+            "opacity" : "0.36"
+        },
+        {
+            "id": 30,
+            "hex": "#FFDE59",
+            "opacity" : "0.36"
+        },
+        {
+            "id": 31,
+            "hex": "#D9D9D9",
+            "opacity" : "0.36"
+        },
+        {
+            "id": 32,
+            "hex": "#B49575"
+        },
+        {
+            "id": 33,
+            "hex": "#FF7924"
+        }
+        
+    ],
+    "carousel": [
+        {
+            "id": 1,
+            "src": "assets/plaquitas/carousel/slide1.jpg"
+        },
+        {
+            "id": 2,
+            "src": "assets/plaquitas/carousel/slide2.jpg"
+        },
+        {
+            "id": 3,
+            "src": "assets/plaquitas/carousel/slide3.jpg"
+        },
+        {
+            "id": 4,
+            "src": "assets/plaquitas/carousel/slide4.jpg"
+        },
+        {
+            "id": 5,
+            "src": "assets/plaquitas/carousel/slide5.jpg"
+        },
+        {
+            "id": 6,
+            "src": "assets/plaquitas/carousel/slide6.jpg"
+        }
+    ]
+    
+}

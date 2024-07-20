@@ -1,0 +1,48 @@
+.footer{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    border-top: 1px solid #e2e2e2;
+    margin: 20px 10px 0 20px;
+
+    .logo{
+       padding: 20px;
+       img{
+        width: 80px;
+       }
+    }
+
+    .rights{
+        font-size: 12px;
+        font-weight: bold
+        ;
+    }
+
+    .social{
+        padding: 20px;
+        img{
+            width: 40px;
+            padding: 10px;
+        }
+    }
+
+    @media (max-width: 450px) {
+        flex-wrap: wrap;
+        .logo{
+            width: 40%
+        }
+        .rights{
+            width: 40%;
+        }
+        .social{
+            width: 100%;
+            display: flex;
+            justify-content: center;
+        }
+    }
+
+
+
+
+    
+}

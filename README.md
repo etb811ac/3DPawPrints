@@ -1,70 +1,45 @@
-# Getting Started with Create React App
+<h1 align="center">🐾 3D Paw Prints</h1>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<p align="center">An e-commerce storefront for a custom 3D-printing shop — customers design their own keepsakes (paw-print tags, figurines, plaques, planters) by picking a shape, color, and uploading their own photo.</p>
 
-## Available Scripts
+<p align="center">
+  <!-- TODO: replace with your deployed demo URL -->
+  🔗 <b>Live Demo:</b> <i>coming soon</i>
+</p>
 
-In the project directory, you can run:
+<p align="center">
+  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black">
+  <img src="https://img.shields.io/badge/React%20Router-CA4245?logo=reactrouter&logoColor=white">
+  <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?logo=tailwindcss&logoColor=white">
+  <img src="https://img.shields.io/badge/Sass-CC6699?logo=sass&logoColor=white">
+  <img src="https://img.shields.io/badge/EmailJS-FF7139">
+</p>
 
-### `npm start`
+## About
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+A full storefront for a made-to-order 3D-printing business, with a product catalog and a custom-design flow:
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+- 🛍️ **Product categories** — tags/plaques, figurines, planters, flips, and more
+- 🎨 **Live customization** — pick a shape (heart, bone, star, fish, circle…), choose a color, and upload your own photo
+- 🛒 **Shopping cart** with a guided "tell us your idea" custom-order form
+- 📧 **Order submission** by email via EmailJS — no backend required
+- 🖼️ Image carousels and sliders for showcasing finished pieces
+- 📈 Google Analytics integration and smooth scroll-to-top routing
 
-### `npm test`
+## Tech
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+React (Create React App) · React Router · Tailwind CSS + Sass · `react-slick` carousels · EmailJS · Google Analytics
 
-### `npm run build`
+## Run locally
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+```bash
+npm install
+npm start        # http://localhost:3000
+npm run build    # production build
+```
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+> Uses EmailJS for order submission — add your EmailJS keys to the environment to enable the contact/order forms.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+---
 
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+<p align="center"><i>by Esteban Acuña · <a href="https://estebanacuna.dev">estebanacuna.dev</a></i></p>
